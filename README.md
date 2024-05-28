@@ -9,7 +9,8 @@
 
 ## Контакты для связи
 
-- email:  mkvrs68@gmail.com[mkvrs68@gmail.com]
+- email:  mkvrs68@gmail.com
+- telegram: t.me/mkvrs4
 
 
 
