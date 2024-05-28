@@ -10,8 +10,16 @@
 ## Контакты для связи
 
 - email:  mkvrs68@gmail.com
-- telegram: t.me/mkvrs4
+- telegram: https://t.me/mkvrs4
 
+
+## Стек, который я использую
+
+- Python
+- FastAPI
+- Django
+- DRF
+- DJANGO
 
 
 <!--
