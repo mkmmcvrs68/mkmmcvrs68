@@ -23,8 +23,6 @@
 - NGINX
 - VSCode
 - Docker
-  Docker
-  NGINX
 
 
 <!--
