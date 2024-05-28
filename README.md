@@ -19,7 +19,12 @@
 - FastAPI
 - Django
 - DRF
-- DJANGO
+- FLASK
+- NGINX
+- VSCode
+- Docker
+  Docker
+  NGINX
 
 
 <!--
